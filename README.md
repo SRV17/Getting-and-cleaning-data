@@ -26,9 +26,9 @@ You should create one R script called run_analysis.R that does the following.
 
 files in this repository:
 
-CodeBook.md: information about raw and tidy data set and elaboration made to transform them
-README.md: this file
-run_analysis.R: R script to transform raw data set in a tidy one
+-CodeBook.md: information about raw and tidy data set and elaboration made to transform them
+-README.md: this file
+-run_analysis.R: R script to transform raw data set in a tidy one
 
 How to create the tidy data set
 - download compressed raw data from the sources mentioned above
